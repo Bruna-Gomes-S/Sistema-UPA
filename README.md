@@ -1,4 +1,4 @@
-# Sistema de Cadastro - UPA 🏥
+# 🟢 Sistema de Cadastro - UPA 
 
 Este é um sistema desenvolvido em Java para o gerenciamento e cadastro de pacientes em uma Unidade de Pronto Atendimento (UPA). O projeto utiliza integração com banco de dados MySQL para persistência dos dados.
 
