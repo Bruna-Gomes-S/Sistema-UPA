@@ -24,10 +24,7 @@ USE UPA_SP;
 CREATE TABLE pacientes (
     id INT PRIMARY KEY AUTO_INCREMENT,
     nome VARCHAR(100),
-<img width="380" height="352" alt="image" src="https://github.com/user-attachments/assets/83c7740a-e75f-4ab4-9006-98b200100404" />
-
-
-
     endereco VARCHAR(200),
     cidade VARCHAR(100)
 );
+<img width="380" height="352" alt="image" src="https://github.com/user-attachments/assets/83c7740a-e75f-4ab4-9006-98b200100404" />
