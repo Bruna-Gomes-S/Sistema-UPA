@@ -30,11 +30,17 @@ CREATE TABLE pacientes (
 ```
 --Exemplos -imagens 🖼️
 
-<img width="325" height="290" alt="image" src="https://github.com/user-attachments/assets/608cb625-3308-415f-9fe1-6290277c94f2" />        
+<img width="329" height="288" alt="image" src="https://github.com/user-attachments/assets/4f11d15e-1327-4e53-b043-9ae9bf43a18d" /> 🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐 <img width="327" height="290" alt="image" src="https://github.com/user-attachments/assets/3d475dd2-0cd9-48e4-9ad1-4e762e6f3c3e" />  
 
-⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬
 
-<img width="279" height="117" alt="image" src="https://github.com/user-attachments/assets/d228d613-a0d3-440a-ae83-3dc4d5e48eeb" />
+  
+
+⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬             ⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬
+
+<img width="338" height="116" alt="image" src="https://github.com/user-attachments/assets/77b6484d-beda-43ff-8e83-14fb34817967" /> 🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐
+   <img width="365" height="115" alt="image" src="https://github.com/user-attachments/assets/401708f3-0862-4c53-a153-0963db9ba983" /> 
+
+
 
 
 
