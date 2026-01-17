@@ -30,15 +30,19 @@ CREATE TABLE pacientes (
 ```
 --Exemplos -imagens 🖼️
 
-<img width="329" height="288" alt="image" src="https://github.com/user-attachments/assets/4f11d15e-1327-4e53-b043-9ae9bf43a18d" /> 🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐 <img width="327" height="290" alt="image" src="https://github.com/user-attachments/assets/3d475dd2-0cd9-48e4-9ad1-4e762e6f3c3e" />  
+<img width="372" height="408" alt="image" src="https://github.com/user-attachments/assets/9b584af8-dd3c-4ce2-b6c3-134ba5a089e6" /> 🌐🌐🌐🌐🌐 <img width="381" height="429" alt="image" src="https://github.com/user-attachments/assets/003c7e37-df0d-4784-bd53-c14daf945c0e" />
+  
 
 
   
 
-⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬             ⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬
+⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬             ⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬
 
-<img width="338" height="116" alt="image" src="https://github.com/user-attachments/assets/77b6484d-beda-43ff-8e83-14fb34817967" /> 🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐
-   <img width="365" height="115" alt="image" src="https://github.com/user-attachments/assets/401708f3-0862-4c53-a153-0963db9ba983" /> 
+<img width="396" height="119" alt="image" src="https://github.com/user-attachments/assets/08f719ca-b85e-4ffc-8680-609152bcfe33" /> 🌐🌐🌐🌐🌐 <img width="377" height="120" alt="image" src="https://github.com/user-attachments/assets/20e02eb1-dac4-4ffc-aa3a-5d112edc8962" />
+
+<img width="715" height="145" alt="image" src="https://github.com/user-attachments/assets/d2556180-f11a-4aeb-ae49-6babf63a2f17" />
+
+
 
 
 
