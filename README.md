@@ -27,4 +27,16 @@ CREATE TABLE pacientes (
     endereco VARCHAR(200),
     cidade VARCHAR(100)
 );
-<img width="380" height="352" alt="image" src="https://github.com/user-attachments/assets/83c7740a-e75f-4ab4-9006-98b200100404" />
+```
+--Exemplos -imagens 🖼️
+
+<img width="325" height="290" alt="image" src="https://github.com/user-attachments/assets/608cb625-3308-415f-9fe1-6290277c94f2" />        
+
+⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬
+
+<img width="279" height="117" alt="image" src="https://github.com/user-attachments/assets/d228d613-a0d3-440a-ae83-3dc4d5e48eeb" />
+
+
+
+
+
