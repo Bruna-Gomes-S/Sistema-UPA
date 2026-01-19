@@ -20,7 +20,7 @@ CREATE DATABASE UPA_SP;
 
 USE UPA_SP;
 
--- Exemplo de tabela base (ajuste conforme seu código)
+-- 
 CREATE TABLE pacientes (
     id INT PRIMARY KEY AUTO_INCREMENT,
     nome VARCHAR(100),
